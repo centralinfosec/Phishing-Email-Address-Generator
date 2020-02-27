@@ -16,7 +16,7 @@ PhishGen is a penetration testing and red teaming tool that automates the proces
 
 Clone the GitHub repository
 ```
-git clone https://github.com/jamesm0rr1s/Phishing-Email-Address-Generator /opt/jamesm0rr1s/Phishing-Email-Address-Generator
+git clone https://github.com/centralinfosec/Phishing-Email-Address-Generator /opt/Central-InfoSec/Phishing-Email-Address-Generator
 ```
 
 ## Requirements
@@ -33,7 +33,7 @@ pip install colorama
 
 Generate email addresses by running the following command:
 ```
-python /opt/jamesm0rr1s/Phishing-Email-Address-Generator/PhishGen.py
+python /opt/Central-InfoSec/Phishing-Email-Address-Generator/PhishGen.py
 ```
 
 ## Example Screenshots
